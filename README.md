@@ -1,7 +1,9 @@
 <!-- HEADER -->
 <img align="center" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=5BCDEC&height=220&section=header&text=Enjoy%20Kumawat&fontSize=60&fontColor=ffffff&fontAlignY=34&desc=Building%20AI%20Tools%20%26%20Cloud%20Infrastructure&descSize=18&descColor=ffffff&descAlignY=55" />
 
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=5BCDEC&center=true&vCenter=true&width=600&lines=AI+%26+Automation+Engineer;DevOps+%7C+Docker+%7C+Cloud+Infrastructure;Building+Tools+That+Think;Open+Source+Contributor" />
+</p>
 
 ---
 
