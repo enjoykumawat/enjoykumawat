@@ -1,19 +1,63 @@
 <!-- HEADER -->
-<img align="center" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=5BCDEC&height=220&section=header&text=Enjoy%20Kumawat&fontSize=60&fontColor=ffffff&fontAlignY=34&desc=Building%20AI%20Tools%20%26%20Cloud%20Infrastructure&descSize=18&descColor=ffffff&descAlignY=55" />
+<img align="center" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=5BCDEC&height=220&section=header&text=Enjoy%20Kumawat&fontSize=60&fontColor=ffffff&fontAlignY=34&desc=AI%20Agent%20Tooling%20%7C%20Open%20Source%20Contributor&descSize=18&descColor=ffffff&descAlignY=55" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=5BCDEC&center=true&vCenter=true&width=600&lines=AI+%26+Automation+Engineer;DevOps+%7C+Docker+%7C+Cloud+Infrastructure;Building+Tools+That+Think;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=5BCDEC&center=true&vCenter=true&width=600&lines=AI+Agent+Tooling+Contributor;Google+ADK+%7C+Gemini+CLI+%7C+MCP+Protocol;Python+%2B+TypeScript;Building+the+AI+Developer+Stack" />
 </p>
 
 ---
 
 ## About Me
 
-I build AI-powered tools and containerized applications. Currently focused on integrating LLMs (Gemini, Claude) into developer workflows and shipping production-ready Docker solutions.
+I build AI-powered tools and contribute to the open source infrastructure that powers AI agents. Currently focused on **Google's AI agent ecosystem** and the **Model Context Protocol**.
 
-- Working on **AI-powered developer tools** and **multi-agent frameworks**
-- Exploring **LLM integrations**, **container orchestration**, and **CI/CD automation**
-- Open to collaborating on **AI/ML** and **DevOps** projects
+- Contributing to **google/adk-python**, **google-gemini/gemini-cli**, and **modelcontextprotocol/python-sdk**
+- Focused on **bug fixes**, **security patches**, and **streaming reliability** in agent frameworks
+- Windows platform specialist -- finding and fixing bugs most contributors miss
+- Open to collaborating on **AI agent tooling** and **MCP ecosystem** projects
+
+---
+
+## Open Source Contributions
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+**google/adk-python**
+
+<img src="https://img.shields.io/badge/PRs-10-5BCDEC?style=flat-square" />
+
+Google's Agent Development Kit. Security fixes, A2A protocol, streaming, sessions.
+
+</td>
+<td align="center" width="33%">
+
+**google-gemini/gemini-cli**
+
+<img src="https://img.shields.io/badge/PRs-4-5BCDEC?style=flat-square" />
+
+Gemini AI CLI tool. Windows fixes, retry logic, error handling.
+
+</td>
+<td align="center" width="33%">
+
+**modelcontextprotocol/python-sdk**
+
+<img src="https://img.shields.io/badge/PRs-1-5BCDEC?style=flat-square" />
+
+MCP protocol layer. OAuth routing fix.
+
+</td>
+</tr>
+</table>
+
+### Highlights
+
+- **Security**: Path traversal fix in `FileArtifactService` ([adk-python#5206](https://github.com/google/adk-python/pull/5206))
+- **Streaming**: Fixed SSE + Interactions API function calling by tracing interaction_id through genai SDK event types ([adk-python#5208](https://github.com/google/adk-python/pull/5208))
+- **A2A Protocol**: 4 PRs fixing role mapping, metadata restoration, serialization, and None guards across the A2A converter layer
+- **Windows**: Symlink permission fix merged into gemini-cli ([gemini-cli#24823](https://github.com/google-gemini/gemini-cli/pull/24823) -- approved by maintainer)
 
 ---
 
@@ -23,11 +67,11 @@ I build AI-powered tools and containerized applications. Currently focused on in
 <tr>
 <td align="center" width="33%">
 
-**AI & ML**
+**AI & Agents**
 
-<img src="https://skillicons.dev/icons?i=python,pytorch" />
+<img src="https://skillicons.dev/icons?i=python,ts" />
 
-`Gemini API` `Claude API` `LangChain`
+`Google ADK` `Gemini API` `Claude API` `MCP` `A2A Protocol`
 
 </td>
 <td align="center" width="33%">
@@ -36,7 +80,7 @@ I build AI-powered tools and containerized applications. Currently focused on in
 
 <img src="https://skillicons.dev/icons?i=docker,linux,github,bash" />
 
-`CI/CD` `Docker Compose`
+`CI/CD` `Docker Compose` `GCP`
 
 </td>
 <td align="center" width="33%">
@@ -45,7 +89,7 @@ I build AI-powered tools and containerized applications. Currently focused on in
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,js,tailwind" />
 
-`REST APIs` `PostgreSQL`
+`REST APIs` `PostgreSQL` `MySQL`
 
 </td>
 </tr>
@@ -59,24 +103,6 @@ I build AI-powered tools and containerized applications. Currently focused on in
 <tr>
 <td width="50%">
 
-### [JobCrush](https://github.com/enjoykumawat/jobcrush)
-AI-powered interview preparation & resume analysis platform. Generates tailored interview questions from job descriptions and provides ATS score checking with detailed feedback.
-
-`FastAPI` `React` `Ollama` `MySQL`
-
-</td>
-<td width="50%">
-
-### [Personal Trading Assistant](https://github.com/enjoykumawat/trading-assistant)
-AI-driven trading assistant for Indian stock markets. Real-time Nifty50 analysis, candlestick charting, gainers/losers tracking, and AI-powered trade signals.
-
-`Python` `AI/ML` `Real-Time Data` `Trading`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
 ### [oh-my-codex](https://github.com/enjoykumawat/oh-my-codex)
 Codex-native multi-agent framework with reusable skills and a terminal observability layer.
 
@@ -85,10 +111,10 @@ Codex-native multi-agent framework with reusable skills and a terminal observabi
 </td>
 <td width="50%">
 
-### Currently Building
-**AI CLI Toolkit** — Command-line tools powered by Gemini API for developer productivity.
+### [JobCrush](https://github.com/enjoykumawat/jobcrush)
+AI-powered interview preparation & resume analysis platform. Generates tailored interview questions from job descriptions.
 
-**Docker Starter Kits** — Production-ready templates for common stacks.
+`FastAPI` `React` `Ollama` `MySQL`
 
 </td>
 </tr>
@@ -113,6 +139,7 @@ Codex-native multi-agent framework with reusable skills and a terminal observabi
 
 <p align="center">
   <a href="https://www.linkedin.com/in/enjoy-kumawat-23635319b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/enjoykumawat"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://instagram.com/enjoy_kumawat"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://github.com/enjoykumawat"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
