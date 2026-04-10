@@ -5,15 +5,22 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=5BCDEC&center=true&vCenter=true&width=600&lines=AI+Agent+Tooling+Contributor;Google+ADK+%7C+Gemini+CLI+%7C+MCP+Protocol;Python+%2B+TypeScript;Building+the+AI+Developer+Stack" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/google--gemini%2Fgemini--cli-Contributor-22c55e?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/PRs_Submitted-18-5BCDEC?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Repos_Active-3-5BCDEC?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
 ---
 
 ## About Me
 
 I build AI-powered tools and contribute to the open source infrastructure that powers AI agents. Currently focused on **Google's AI agent ecosystem** and the **Model Context Protocol**.
 
+- **Official Contributor** on `google-gemini/gemini-cli` (100k ⭐) — merged PR, Contributor badge earned
 - Contributing to **google/adk-python**, **google-gemini/gemini-cli**, and **modelcontextprotocol/python-sdk**
 - Focused on **bug fixes**, **security patches**, and **streaming reliability** in agent frameworks
-- Windows platform specialist -- finding and fixing bugs most contributors miss
+- Windows platform specialist — finding and fixing bugs most contributors miss
 - Open to collaborating on **AI agent tooling** and **MCP ecosystem** projects
 
 ---
@@ -26,7 +33,7 @@ I build AI-powered tools and contribute to the open source infrastructure that p
 
 **google/adk-python**
 
-<img src="https://img.shields.io/badge/PRs-10-5BCDEC?style=flat-square" />
+<img src="https://img.shields.io/badge/PRs-12-5BCDEC?style=flat-square" />
 
 Google's Agent Development Kit. Security fixes, A2A protocol, streaming, sessions.
 
@@ -35,18 +42,18 @@ Google's Agent Development Kit. Security fixes, A2A protocol, streaming, session
 
 **google-gemini/gemini-cli**
 
-<img src="https://img.shields.io/badge/PRs-4-5BCDEC?style=flat-square" />
+<img src="https://img.shields.io/badge/PRs-4-5BCDEC?style=flat-square" /> <img src="https://img.shields.io/badge/✓_MERGED-22c55e?style=flat-square" />
 
-Gemini AI CLI tool. Windows fixes, retry logic, error handling.
+Gemini AI CLI tool. Windows fixes, retry logic, error handling.<br/>**Contributor badge earned.**
 
 </td>
 <td align="center" width="33%">
 
 **modelcontextprotocol/python-sdk**
 
-<img src="https://img.shields.io/badge/PRs-1-5BCDEC?style=flat-square" />
+<img src="https://img.shields.io/badge/PRs-2-5BCDEC?style=flat-square" />
 
-MCP protocol layer. OAuth routing fix.
+MCP protocol layer. OAuth routing fix, scope validation fix.
 
 </td>
 </tr>
@@ -54,10 +61,11 @@ MCP protocol layer. OAuth routing fix.
 
 ### Highlights
 
-- **Security**: Path traversal fix in `FileArtifactService` ([adk-python#5206](https://github.com/google/adk-python/pull/5206))
-- **Streaming**: Fixed SSE + Interactions API function calling by tracing interaction_id through genai SDK event types ([adk-python#5208](https://github.com/google/adk-python/pull/5208))
-- **A2A Protocol**: 4 PRs fixing role mapping, metadata restoration, serialization, and None guards across the A2A converter layer
-- **Windows**: Symlink permission fix merged into gemini-cli ([gemini-cli#24823](https://github.com/google-gemini/gemini-cli/pull/24823) -- approved by maintainer)
+- **✅ MERGED** — Windows symlink permission fix in gemini-cli ([#24823](https://github.com/google-gemini/gemini-cli/pull/24823)) — approved by maintainer scidomino: *"I'll make an exception for a one liner like this"*
+- **🔒 Security** — Path traversal fix in `FileArtifactService` ([adk-python#5206](https://github.com/google/adk-python/pull/5206))
+- **📡 Streaming** — Fixed SSE + Interactions API function calling by tracing interaction_id through genai SDK event types ([adk-python#5208](https://github.com/google/adk-python/pull/5208))
+- **🤝 A2A Protocol** — 4 PRs fixing role mapping, metadata restoration, serialization, and None guards across the A2A converter layer
+- **🧑‍💻 ADK Team Acknowledged** — PR [#5200](https://github.com/google/adk-python/pull/5200) mentioned by Google ADK team member under review
 
 ---
 
