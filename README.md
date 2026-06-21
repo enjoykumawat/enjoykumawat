@@ -19,6 +19,21 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-Protocol-blueviolet?style=flat)
 ![Google ADK](https://img.shields.io/badge/Google-ADK-4285F4?style=flat&logo=google&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+## Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| [iris-capture-enhancement-engine](https://github.com/enjoykumawat/iris-capture-enhancement-engine) | Biometric iris capture & image enhancement pipeline |
+| [oh-my-codex](https://github.com/enjoykumawat/oh-my-codex) | Codex-native multi-agent framework with reusable skills & terminal observability |
+| [my-git-manager](https://github.com/enjoykumawat/my_git_manger) | GitHub + DEV.to profile manager — auto-updates README via API |
+
+## Open Source Contributions
+
+[![adk-python](https://img.shields.io/badge/google%2Fadk--python-Contributor-4285F4?style=flat&logo=google&logoColor=white)](https://github.com/google/adk-python)
+[![gemini-cli](https://img.shields.io/badge/google%2Fgemini--cli-Contributor-4285F4?style=flat&logo=google&logoColor=white)](https://github.com/google-gemini/gemini-cli)
+[![mcp-python-sdk](https://img.shields.io/badge/modelcontextprotocol%2Fpython--sdk-Contributor-blueviolet?style=flat)](https://github.com/modelcontextprotocol/python-sdk)
 
 ## GitHub Stats
 
