@@ -1,157 +1,38 @@
-<!-- HEADER -->
-<img align="center" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=5BCDEC&height=220&section=header&text=Enjoy%20Kumawat&fontSize=60&fontColor=ffffff&fontAlignY=34&desc=AI%20Agent%20Tooling%20%7C%20Open%20Source%20Contributor&descSize=18&descColor=ffffff&descAlignY=55" />
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=5BCDEC&center=true&vCenter=true&width=600&lines=AI+Agent+Tooling+Contributor;Google+ADK+%7C+Gemini+CLI+%7C+MCP+Protocol;Python+%2B+TypeScript;Building+the+AI+Developer+Stack" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Enjoy+Kumawat+%F0%9F%91%8B;AI+Agent+Tooling+Contributor;Python+%2B+TypeScript+Developer;Open+Source+Enthusiast)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/google--gemini%2Fgemini--cli-Contributor-22c55e?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/PRs_Submitted-18-5BCDEC?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Repos_Active-3-5BCDEC?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
----
+</div>
 
 ## About Me
 
-I build AI-powered tools and contribute to the open source infrastructure that powers AI agents. Currently focused on **Google's AI agent ecosystem** and the **Model Context Protocol**.
-
-- **Official Contributor** on `google-gemini/gemini-cli` (100k ⭐) — merged PR, Contributor badge earned
-- Contributing to **google/adk-python**, **google-gemini/gemini-cli**, and **modelcontextprotocol/python-sdk**
-- Focused on **bug fixes**, **security patches**, and **streaming reliability** in agent frameworks
-- Windows platform specialist — finding and fixing bugs most contributors miss
-- Open to collaborating on **AI agent tooling** and **MCP ecosystem** projects
-
----
-
-## Open Source Contributions
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-**google/adk-python**
-
-<img src="https://img.shields.io/badge/PRs-12-5BCDEC?style=flat-square" />
-
-Google's Agent Development Kit. Security fixes, A2A protocol, streaming, sessions.
-
-</td>
-<td align="center" width="33%">
-
-**google-gemini/gemini-cli**
-
-<img src="https://img.shields.io/badge/PRs-4-5BCDEC?style=flat-square" /> <img src="https://img.shields.io/badge/✓_MERGED-22c55e?style=flat-square" />
-
-Gemini AI CLI tool. Windows fixes, retry logic, error handling.<br/>**Contributor badge earned.**
-
-</td>
-<td align="center" width="33%">
-
-**modelcontextprotocol/python-sdk**
-
-<img src="https://img.shields.io/badge/PRs-2-5BCDEC?style=flat-square" />
-
-MCP protocol layer. OAuth routing fix, scope validation fix.
-
-</td>
-</tr>
-</table>
-
-### Highlights
-
-- **✅ MERGED** — Windows symlink permission fix in gemini-cli ([#24823](https://github.com/google-gemini/gemini-cli/pull/24823)) — approved by maintainer scidomino: *"I'll make an exception for a one liner like this"*
-- **🔒 Security** — Path traversal fix in `FileArtifactService` ([adk-python#5206](https://github.com/google/adk-python/pull/5206))
-- **📡 Streaming** — Fixed SSE + Interactions API function calling by tracing interaction_id through genai SDK event types ([adk-python#5208](https://github.com/google/adk-python/pull/5208))
-- **🤝 A2A Protocol** — 4 PRs fixing role mapping, metadata restoration, serialization, and None guards across the A2A converter layer
-- **🧑‍💻 ADK Team Acknowledged** — PR [#5200](https://github.com/google/adk-python/pull/5200) mentioned by Google ADK team member under review
-
----
+- 🤖 AI Agent tooling contributor — active in `google/adk-python`, `gemini-cli`, `MCP python-sdk`
+- 🐍 Python + TypeScript developer
+- 📍 India
+- 🔭 Currently building: AI agent tools & biometric pipelines
+- 💬 Ask me about: MCP protocol, AI agents, open source contributing
 
 ## Tech Stack
 
-<table>
-<tr>
-<td align="center" width="33%">
-
-**AI & Agents**
-
-<img src="https://skillicons.dev/icons?i=python,ts" />
-
-`Google ADK` `Gemini API` `Claude API` `MCP` `A2A Protocol`
-
-</td>
-<td align="center" width="33%">
-
-**DevOps & Cloud**
-
-<img src="https://skillicons.dev/icons?i=docker,linux,github,bash" />
-
-`CI/CD` `Docker Compose` `GCP`
-
-</td>
-<td align="center" width="33%">
-
-**Full-Stack**
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,js,tailwind" />
-
-`REST APIs` `PostgreSQL` `MySQL`
-
-</td>
-</tr>
-</table>
-
----
-
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### [oh-my-codex](https://github.com/enjoykumawat/oh-my-codex)
-Codex-native multi-agent framework with reusable skills and a terminal observability layer.
-
-`Multi-Agent` `CLI` `Developer Tools`
-
-</td>
-<td width="50%">
-
-### [JobCrush](https://github.com/enjoykumawat/jobcrush)
-AI-powered interview preparation & resume analysis platform. Generates tailored interview questions from job descriptions.
-
-`FastAPI` `React` `Ollama` `MySQL`
-
-</td>
-</tr>
-</table>
-
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-Protocol-blueviolet?style=flat)
+![Google ADK](https://img.shields.io/badge/Google-ADK-4285F4?style=flat&logo=google&logoColor=white)
 
 ## GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=enjoykumawat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BCDEC&icon_color=5BCDEC&text_color=c9d1d9" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=enjoykumawat&theme=tokyonight&hide_border=true&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakLabel=5BCDEC" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=enjoykumawat&theme=tokyo-night&area=true&line=5BCDEC&point=5BCDEC&hide_border=true&bg_color=0D1117" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=enjoykumawat&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enjoykumawat&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 
----
+<img src="https://streak-stats.demolab.com?user=enjoykumawat&theme=tokyonight&hide_border=true" />
 
-## Connect
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/enjoy-kumawat-23635319b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/enjoykumawat"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://instagram.com/enjoy_kumawat"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://github.com/enjoykumawat"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+## Connect With Me
 
----
-
-<img align="center" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=5BCDEC&height=120&section=footer" />
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/enjoykumawat)
+[![DEV.to](https://img.shields.io/badge/DEV.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/enjoy_kumawat)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/enjoykumawat)
