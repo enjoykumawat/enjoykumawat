@@ -27,7 +27,6 @@
 |---------|-------------|
 | [iris-capture-enhancement-engine](https://github.com/enjoykumawat/iris-capture-enhancement-engine) | Biometric iris capture & image enhancement pipeline |
 | [oh-my-codex](https://github.com/enjoykumawat/oh-my-codex) | Codex-native multi-agent framework with reusable skills & terminal observability |
-| [my-git-manager](https://github.com/enjoykumawat/my_git_manger) | GitHub + DEV.to profile manager — auto-updates README via API |
 
 ## Open Source Contributions
 
