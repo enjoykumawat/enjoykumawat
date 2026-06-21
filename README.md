@@ -21,12 +21,6 @@
 ![Google ADK](https://img.shields.io/badge/Google-ADK-4285F4?style=flat&logo=google&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
-## Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| [iris-capture-enhancement-engine](https://github.com/enjoykumawat/iris-capture-enhancement-engine) | Biometric iris capture & image enhancement pipeline |
-| [oh-my-codex](https://github.com/enjoykumawat/oh-my-codex) | Codex-native multi-agent framework with reusable skills & terminal observability |
 
 ## Open Source Contributions
 
