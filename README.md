@@ -27,6 +27,7 @@
 [![adk-python](https://img.shields.io/badge/google%2Fadk--python-Contributor-4285F4?style=flat&logo=google&logoColor=white)](https://github.com/google/adk-python)
 [![gemini-cli](https://img.shields.io/badge/google%2Fgemini--cli-Contributor-4285F4?style=flat&logo=google&logoColor=white)](https://github.com/google-gemini/gemini-cli)
 [![mcp-python-sdk](https://img.shields.io/badge/modelcontextprotocol%2Fpython--sdk-Contributor-blueviolet?style=flat)](https://github.com/modelcontextprotocol/python-sdk)
+[![undici](https://img.shields.io/badge/nodejs%2Fundici-Contributor-339933?style=flat&logo=nodedotjs&logoColor=white)](https://github.com/nodejs/undici)
 
 ## GitHub Stats
 
